@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--~~~~~~~~~~~~~~ favicon ~~~~~~~~~~~~~~-->
+
+    <!--~~~~~~~~~~~~~~ remix icon ~~~~~~~~~~~~~~-->
+    
+    <!--~~~~~~~~~~~~~~ swiper's css ~~~~~~~~~~~~~~-->
+
+    <title> Name of the Project </title>
+</head>
+<body>
+    <!--~~~~~~~~~~~~~~ header ~~~~~~~~~~~~~~-->
+    <header id="header">
+
+    </header>
+    <!--~~~~~~~~~~~~~~ main ~~~~~~~~~~~~~~-->
+    <main>
+        <!--~~~~~~~~~~~~~~ home ~~~~~~~~~~~~~~-->
+        <section id="home">
+            <!-- heading -->
+            <!-- image -->
+            <!-- content -->
+            <!-- button -->
+        </section>
+        <!--~~~~~~~~~~~~~~ services ~~~~~~~~~~~~~~-->
+        <section id="services">
+            <!-- heading -->
+            <!-- image -->
+            <!-- content -->
+            <!-- button -->
+        </section>
+        <!--~~~~~~~~~~~~~~ about us ~~~~~~~~~~~~~~-->
+        <section id="about-us">
+            <!-- heading -->
+            <!-- image -->
+            <!-- content -->
+            <!-- button -->
+        </section>
+        <!--~~~~~~~~~~~~~~ popular ~~~~~~~~~~~~~~-->
+        <section id="popular">
+            <!-- heading -->
+            <!-- image -->
+            <!-- content -->
+            <!-- button -->
+        </section>
+        <!--~~~~~~~~~~~~~~ review ~~~~~~~~~~~~~~-->
+        <section id="review">
+            <!-- heading -->
+            <!-- image -->
+            <!-- content -->
+            <!-- button -->
+        </section>
+
+    </main>
+    <!--~~~~~~~~~~~~~~ footer ~~~~~~~~~~~~~~-->
+    <footer>
+        <!-- Newsletter -->
+        <!-- social icon -->
+        <!-- content -->
+        <!-- copyright -->
+        <!-- floral image -->
+    </footer>
+    <!--~~~~~~~~~~~~~~ scroll up ~~~~~~~~~~~~~~-->
+    <!--~~~~~~~~~~~~~~ swiper js ~~~~~~~~~~~~~~-->
+    <!--~~~~~~~~~~~~~~ scroll reveal ~~~~~~~~~~~~~~-->
+    <!--~~~~~~~~~~~~~~ main js ~~~~~~~~~~~~~~-->
+</body>
+</html>
